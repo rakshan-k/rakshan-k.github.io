@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux Skills on Rakshan&#39;s blog</title>
+    <link>http://localhost:1313/tags/linux-skills/</link>
+    <description>Recent content in Linux Skills on Rakshan&#39;s blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 31 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/linux-skills/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Red Hat Certified System Administrator (RHCSA) Certification Success</title>
+      <link>http://localhost:1313/posts/rhcsa/</link>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/rhcsa/</guid>
+      <description>&lt;h1 id=&#34;-im-officially-a-red-hat-certified-system-administrator-rhcsa&#34;&gt;🎉 I’m Officially a Red Hat Certified System Administrator (RHCSA)!&lt;/h1&gt;&#xA;&lt;p&gt;I am thrilled to announce a major milestone in my Linux journey: I have earned my &lt;strong&gt;Red Hat Certified System Administrator (RHCSA)&lt;/strong&gt; certification! This achievement has been a goal of mine for quite some time, and it reflects my deep passion for Linux, self-learning, and commitment to professional growth.&lt;/p&gt;&#xA;&lt;p&gt;The &lt;strong&gt;RHCSA&lt;/strong&gt; certification is a hands-on, performance-based exam that pushes candidates to demonstrate their knowledge and skills in live, real-world scenarios. It’s designed to validate one’s ability to manage and configure Red Hat systems at a professional level, making it one of the most respected certifications in the industry. This wasn’t just an exam for me; it was a personal challenge to solidify my technical foundation and grow in my career.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
