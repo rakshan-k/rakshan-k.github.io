@@ -1,5 +1,5 @@
 ---
-author: "Rakshan"
+author: "Rakshan-K"
 title: "Red Hat Certified System Administrator (RHCSA) Certification Success"
 date: "2024-10-31"
 tags: ["RHCSA", "Linux", "Red Hat", "System Administration", "Certification", "Linux Skills"]
