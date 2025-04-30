@@ -29,7 +29,9 @@ languages:
             main:
                 - name: Resume
                   url: "http://res.rakshan.tech/"
-                  weight: 6
+                  weight: 4
+                  params:
+                    target: "_blank"
                 - name: Archive
                   url: archives
                   weight: 5
