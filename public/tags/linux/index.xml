@@ -4,16 +4,26 @@
     <title>Linux on Rakshan&#39;s blog</title>
     <link>http://localhost:1313/tags/linux/</link>
     <description>Recent content in Linux on Rakshan&#39;s blog</description>
-    <generator>Hugo -- 0.136.5</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Red Hat Certified System Administrator (RHCSA) Certification Success</title>
+      <title>Designing a Wi-Fi Attack and Defense Toolkit</title>
+      <link>http://localhost:1313/posts/wifi-toolkit/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/wifi-toolkit/</guid>
+      <description>&lt;h1 id=&#34;designing-a-wi-fi-offensive-and-defensive-toolkit&#34;&gt;Designing a Wi-Fi Offensive and Defensive Toolkit&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;m excited to share a project that blends offensive hacking, defensive monitoring, and wireless protocol mastery—a &lt;strong&gt;Wi-Fi Offensive and Defensive Toolkit&lt;/strong&gt; built entirely in &lt;strong&gt;Python&lt;/strong&gt;. This toolkit is designed for both ethical hackers and cybersecurity learners who want to explore real-world Wi-Fi vulnerabilities and defenses in one unified platform.&lt;/p&gt;
+&lt;h2 id=&#34;-why-i-built-this-toolkit&#34;&gt;💡 Why I Built This Toolkit&lt;/h2&gt;
+&lt;p&gt;The increasing use of Wi-Fi in critical environments—hospitals, businesses, homes—comes with a growing attack surface. Sadly, most users and even professionals underestimate how vulnerable Wi-Fi truly is. I created this project to:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Red Hat Certified System Administrator (RHCSA)</title>
       <link>http://localhost:1313/posts/rhcsa/</link>
       <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/rhcsa/</guid>
-      <description>&lt;h1 id=&#34;-im-officially-a-red-hat-certified-system-administrator-rhcsa&#34;&gt;🎉 I’m Officially a Red Hat Certified System Administrator (RHCSA)!&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;im-officially-a-red-hat-certified-system-administrator-rhcsa&#34;&gt;I’m Officially a Red Hat Certified System Administrator (RHCSA)!&lt;/h1&gt;
 &lt;p&gt;I am thrilled to announce a major milestone in my Linux journey: I have earned my &lt;strong&gt;Red Hat Certified System Administrator (RHCSA)&lt;/strong&gt; certification! This achievement has been a goal of mine for quite some time, and it reflects my deep passion for Linux, self-learning, and commitment to professional growth.&lt;/p&gt;
 &lt;p&gt;The &lt;strong&gt;RHCSA&lt;/strong&gt; certification is a hands-on, performance-based exam that pushes candidates to demonstrate their knowledge and skills in live, real-world scenarios. It’s designed to validate one’s ability to manage and configure Red Hat systems at a professional level, making it one of the most respected certifications in the industry. This wasn’t just an exam for me; it was a personal challenge to solidify my technical foundation and grow in my career.&lt;/p&gt;</description>
     </item>
