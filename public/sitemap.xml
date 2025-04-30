@@ -5,13 +5,10 @@
     <loc>http://localhost:1313/tags/cybersecurity/</loc>
     <lastmod>2025-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/wifi-toolkit/</loc>
+    <loc>http://localhost:1313/tags/defensive-security/</loc>
     <lastmod>2025-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/linux/</loc>
-    <lastmod>2025-04-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/penetration-testing/</loc>
+    <loc>http://localhost:1313/tags/offensive-security/</loc>
     <lastmod>2025-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
@@ -23,19 +20,25 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/scapy/</loc>
+    <loc>http://localhost:1313/tags/raspberry-pi/</loc>
     <lastmod>2025-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/wi-fi/</loc>
+    <loc>http://localhost:1313/posts/wifi-toolkit/</loc>
     <lastmod>2025-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/wireless-security/</loc>
+    <loc>http://localhost:1313/tags/wi-fi-security/</loc>
+    <lastmod>2025-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/wireless-attacks/</loc>
     <lastmod>2025-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/certification/</loc>
+    <lastmod>2024-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/linux/</loc>
     <lastmod>2024-10-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/linux-skills/</loc>

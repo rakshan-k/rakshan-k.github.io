@@ -6,18 +6,8 @@
     <description>Recent content in Linux on Rakshan&#39;s blog</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Designing a Wi-Fi Attack and Defense Toolkit</title>
-      <link>http://localhost:1313/posts/wifi-toolkit/</link>
-      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/wifi-toolkit/</guid>
-      <description>&lt;h1 id=&#34;designing-a-wi-fi-offensive-and-defensive-toolkit&#34;&gt;Designing a Wi-Fi Offensive and Defensive Toolkit&lt;/h1&gt;
-&lt;p&gt;I&amp;rsquo;m excited to share a project that blends offensive hacking, defensive monitoring, and wireless protocol mastery—a &lt;strong&gt;Wi-Fi Offensive and Defensive Toolkit&lt;/strong&gt; built entirely in &lt;strong&gt;Python&lt;/strong&gt;. This toolkit is designed for both ethical hackers and cybersecurity learners who want to explore real-world Wi-Fi vulnerabilities and defenses in one unified platform.&lt;/p&gt;
-&lt;h2 id=&#34;-why-i-built-this-toolkit&#34;&gt;💡 Why I Built This Toolkit&lt;/h2&gt;
-&lt;p&gt;The increasing use of Wi-Fi in critical environments—hospitals, businesses, homes—comes with a growing attack surface. Sadly, most users and even professionals underestimate how vulnerable Wi-Fi truly is. I created this project to:&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Red Hat Certified System Administrator (RHCSA)</title>
       <link>http://localhost:1313/posts/rhcsa/</link>

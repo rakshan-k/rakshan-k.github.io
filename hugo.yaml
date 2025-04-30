@@ -27,6 +27,9 @@ languages:
           series: series
         menu:
             main:
+                - name: Resume
+                  url: "http://res.rakshan.tech/"
+                  weight: 6
                 - name: Archive
                   url: archives
                   weight: 5
