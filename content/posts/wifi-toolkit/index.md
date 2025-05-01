@@ -45,7 +45,7 @@ All modes are powered by Scapy for raw packet manipulation and Hostapd for fake 
 
 - **Deauthentication Attack**
 - **Beacon Flooding / Fake APs**
-- **WPA2 Handshake Capture**
+- **WPA2 Handshake Capture & Cracking**
 - **ARP Spoofing & DNS Spoofing**
 - **SSL Stripping & Credential Harvesting**
 
