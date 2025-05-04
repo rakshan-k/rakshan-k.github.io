@@ -9,11 +9,11 @@
     <lastBuildDate>Wed, 30 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/wi-fi-security/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Wi-Fi Offensive and Defensive Security Toolkit – A Complete Cybersecurity Project</title>
+      <title>Wi-Fi Offensive and Defensive Security Toolkit – Complete Cybersecurity Project</title>
       <link>http://localhost:1313/posts/wifi-toolkit/</link>
       <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/wifi-toolkit/</guid>
-      <description>&lt;h1 id=&#34;wi-fi-offensive-and-defensive-security-toolkit-&#34;&gt;Wi-Fi Offensive and Defensive Security Toolkit 🚨🔐&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;wi-fi-offensive-and-defensive-security-toolkit&#34;&gt;Wi-Fi Offensive and Defensive Security Toolkit&lt;/h1&gt;
 &lt;p&gt;Having dedicated the past year and a half to my final year project, I&amp;rsquo;ve successfully developed a powerful and hands-on Wi-Fi Offensive and Defensive Security Toolkit leveraging the capabilities of Python and Scapy on a Raspberry Pi. This project goes beyond theoretical concepts, providing a practical platform to simulate real-world wireless attacks and implement effective defense mechanisms.&lt;/p&gt;
 &lt;p&gt;Designed as both an educational resource and a robust security auditing tool, this toolkit offers invaluable hands-on experience with the offensive and defensive intricacies of Wi-Fi networks. Whether you&amp;rsquo;re a fellow penetration tester, a cybersecurity student looking to bridge the gap between theory and practice, or a hobbyist eager to explore the depths of wireless security, this project offers a unique and practical learning opportunity.&lt;/p&gt;</description>
     </item>
