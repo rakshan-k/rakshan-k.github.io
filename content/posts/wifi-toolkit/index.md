@@ -1,6 +1,6 @@
 ---
 author: "Rakshan-K"
-title: "Wi-Fi Offensive and Defensive Security Toolkit – A Complete Cybersecurity Project"
+title: "Wi-Fi Offensive and Defensive Security Toolkit – Complete Cybersecurity Project"
 date: "2025-04-30"
 tags: ["Wi-Fi Security", "Cybersecurity", "Wireless Attacks", "Offensive Security", "Defensive Security", "Python", "Raspberry Pi"]
 cover:
@@ -10,7 +10,7 @@ cover:
     relative: true
 ---
 
-# Wi-Fi Offensive and Defensive Security Toolkit 🚨🔐
+# Wi-Fi Offensive and Defensive Security Toolkit 
 
 Having dedicated the past year and a half to my final year project, I've successfully developed a powerful and hands-on Wi-Fi Offensive and Defensive Security Toolkit leveraging the capabilities of Python and Scapy on a Raspberry Pi. This project goes beyond theoretical concepts, providing a practical platform to simulate real-world wireless attacks and implement effective defense mechanisms.
 
@@ -41,7 +41,7 @@ All modes are powered by Scapy for raw packet manipulation and Hostapd for fake 
 
 ## 2. Key Features
 
-### ✅ Offensive Capabilities
+### 🗡️ Offensive Capabilities
 
 - **Deauthentication Attack**
 - **Beacon Flooding / Fake APs**
@@ -54,19 +54,18 @@ All modes are powered by Scapy for raw packet manipulation and Hostapd for fake 
 - **Rogue AP Detection**
 - **Deauth Detection**
 - **ARP Spoofing Alerts**
-- **Dashboard Logging with Timestamp**
-
-### 📍 Recon & Audit
+- **DNS Spoofing Alerts**
+### 🔎 Recon & Audit
 
 - **War Driving Module**
 - **AP Security Score Classification (Open → WPA2-802.11w)**
 - **GPS Tagging & Signal Strength Filtering**
 
-### 🧠 Educational Design
+### 📊 Real-Time Dashboard
 
-- **Menu-Driven UI**
-- **Modular Codebase for Custom Extensions**
-- **Includes Real-World Test Results**
+- **MongoDB-Backed Dashboard for Defense Toggle and Traffic Analysis**
+- **Live Monitoring of Wi-Fi Events**
+- **Control Defensive Mechanisms in Real Time**
 
 ---
 
@@ -148,51 +147,51 @@ Automatically loops through:
 
 ### 5.1 Handshake Capture & Cracking
 
-- ✅ **85% capture rate** across test APs
-- ⏱️ **3–7 mins** average cracking time (weak passwords)
-- ❌ Strong WPA2 passwords resisted dictionary attacks
+-  **85% capture rate** across test APs
+-  **3–7 mins** average cracking time (weak passwords)
+-  Strong WPA2 passwords resisted dictionary attacks
 
 ### 5.2 Deauthentication Attacks
 
-- 💥 **90% success** in client disconnection
-- 📶 Best results within **10 meters**
-- ⚠️ 802.11w APs mitigated most attacks
+-  **90% success** in client disconnection
+-  Best results within **10 meters**
+-  802.11w APs mitigated most attacks
 
 ### 5.3 MITM & ARP Spoofing
 
-- ✅ **100% success** on non-802.1X networks
-- 🕵️‍♂️ Unencrypted traffic yielded credentials
-- 🛡️ Detected within **10 seconds**
+-  **100% success** on non-802.1X networks
+-  Unencrypted traffic yielded credentials
+-  Detected within **10 seconds**
 
 ### 5.4 DNS Spoofing
 
-- ✅ Successful redirection post-ARP spoofing
-- 🎯 Harvested credentials via fake Google login
-- 🔓 Worked only on non-HSTS and HTTP sites
+-  Successful redirection post-ARP spoofing
+-  Harvested credentials via fake Google login
+-  Worked only on non-HSTS and HTTP sites
 
 ### 5.5 Rogue AP Detection
 
-- 🔍 **100% detection** via SSID/MAC mismatch
-- 🚫 **85% DoS success** on fake APs
-- 🧭 Dashboard flagged excessive beacons in **<5s**
+-  **100% detection** via SSID/MAC mismatch
+-  **85% DoS success** on fake APs
+-  Dashboard flagged excessive beacons in **<5s**
 
 ### 5.6 Recon & AP Audit
 
-- 📊 Logged 50+ APs in 500m radius
-- 🧠 Classification accuracy: **95%**
-  - Open / WEP / Weak WPA2 / WPA2+802.11w
+-  Logged 50+ APs in 500m radius
+-  Classification accuracy: **95%**
+- Open / WEP / Weak WPA2 / WPA2+802.11w
 
 ### 5.7 Defense Mode
 
-- 🛡️ **98% detection** of deauth & ARP spoofing
-- ⏱️ Alerts triggered within **3–5 seconds**
-- 🧱 WPA2-802.11w APs resisted **90%** of deauths
+-  **98% detection** of deauth & ARP spoofing
+-  Alerts triggered within **3–5 seconds**
+-  WPA2-802.11w APs resisted **90%** of deauths
 
 ### 5.8 Automated Mode
 
-- ⚙️ **80% success** rate in chained attacks
-- 📆 **4–6 minutes/AP** on average
-- 🔁 Skipped failed attempts to optimize workflow
+-  **80% success** rate in chained attacks
+-  **4–6 minutes/AP** on average
+-  Skipped failed attempts to optimize workflow
 
 ---
 
@@ -202,10 +201,10 @@ The **Wi-Fi Offensive and Defensive Toolkit** is a unique, hands-on solution for
 
 Whether you're a cybersecurity student, a red teamer, or a wireless researcher, this project provides:
 
-- 📚 A modular learning environment
-- 🔐 Practical defense tools
-- ⚔️ Real-world attack simulation
-- 💡 Protocol-level insights
+-  A modular learning environment
+-  Practical defense tools
+-  Real-world attack simulation
+-  Protocol-level insights
 
 With growing threats in wireless environments, understanding both sides of the security spectrum is no longer optional — it's essential.
 
@@ -213,10 +212,9 @@ With growing threats in wireless environments, understanding both sides of the s
 
 ## Next Steps
 
-- 📥 Project repo and codebase (coming soon)
-- 📦 Install script for easy deployment
-- 🧪 Add support for WPA3 and Evil Twin detection
-- 💬 Leave feedback or contribute to future versions!
+-  Install script for easy deployment
+-  Add support for WPA3 and Evil Twin detection
+-  Leave feedback or contribute to future versions!
 
 ---
 

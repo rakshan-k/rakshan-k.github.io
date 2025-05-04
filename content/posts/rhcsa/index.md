@@ -1,6 +1,6 @@
 ---
 author: "Rakshan-K"
-title: "Red Hat Certified System Administrator (RHCSA)"
+title: "Got my RHCSA"
 date: "2024-10-31"
 tags: ["RHCSA", "Linux", "Red Hat", "System Administration", "Certification", "Linux Skills"]
 cover: 
