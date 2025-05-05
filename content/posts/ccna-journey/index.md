@@ -51,9 +51,7 @@ I’ll test myself weekly to measure progress and retention. I’m aiming to sim
 
 ## Documenting the Process  
 
-Although I’m not active on YouTube right now, I plan to document my journey through blog posts, notes, and study updates. This helps me track progress and may even help someone else in the same boat.
-
-Who knows — maybe this will be the foundation for a future content series.
+I plan to document my journey through blog posts, notes, and study updates. This helps me track progress and may even help someone else in the same boat.
 
 ---
 
