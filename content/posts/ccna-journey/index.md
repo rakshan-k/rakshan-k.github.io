@@ -27,7 +27,7 @@ It’s not going to be easy — and that’s exactly why I’m doing it.
 For the next couple of months, I’ll be dedicating a few focused hours each day to study, review, and hands-on practice. Here's how I’m structuring my journey:
 
 ### 1. **Core Course**
-I'm following the **paid "Complete Cisco CCNA 200-301" course by David Bombal**.  
+I'm following the **"Complete Cisco CCNA 200-301" course by David Bombal**.  
 His content is top-tier — practical, clear, and regularly updated. It covers everything from basics to advanced topics with labs, quizzes, and challenges.
 
 My rule: **Don’t move ahead until I’ve truly grasped the current module** through repetition and lab practice.
