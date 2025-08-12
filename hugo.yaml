@@ -28,7 +28,7 @@ languages:
         menu:
             main:
                 - name: Resume
-                  url: "http://res.rakshan.tech/"
+                  url: "https://rakshan-resume.s3.us-east-1.amazonaws.com/Rakshan_Resume.pdf"
                   weight: 4
                   params:
                     target: "_blank"
